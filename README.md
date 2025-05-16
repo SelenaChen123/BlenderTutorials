@@ -1,2 +1,3 @@
-# BlenderTutorials
-Completed Blender tutorials
+# Blender Tutorials
+
+These are completed Blender tutorials.
